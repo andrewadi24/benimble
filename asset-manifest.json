@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/benimble/static/css/main.d773bfa7.css",
-    "main.js": "/benimble/static/js/main.85f52e1e.js",
+    "main.css": "/benimble/static/css/main.29e5de54.css",
+    "main.js": "/benimble/static/js/main.f7d058da.js",
     "static/js/453.2a82e7ac.chunk.js": "/benimble/static/js/453.2a82e7ac.chunk.js",
     "static/media/fa-solid-900.ttf": "/benimble/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/benimble/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -11,13 +11,17 @@
     "static/media/fa-regular-400.woff2": "/benimble/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/fa-v4compatibility.ttf": "/benimble/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/benimble/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "static/media/slick.svg": "/benimble/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/benimble/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/benimble/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/benimble/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/benimble/index.html",
-    "main.d773bfa7.css.map": "/benimble/static/css/main.d773bfa7.css.map",
-    "main.85f52e1e.js.map": "/benimble/static/js/main.85f52e1e.js.map",
+    "main.29e5de54.css.map": "/benimble/static/css/main.29e5de54.css.map",
+    "main.f7d058da.js.map": "/benimble/static/js/main.f7d058da.js.map",
     "453.2a82e7ac.chunk.js.map": "/benimble/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d773bfa7.css",
-    "static/js/main.85f52e1e.js"
+    "static/css/main.29e5de54.css",
+    "static/js/main.f7d058da.js"
   ]
 }
