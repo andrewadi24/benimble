@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/benimble/static/css/main.29e5de54.css",
-    "main.js": "/benimble/static/js/main.f7d058da.js",
+    "main.css": "/benimble/static/css/main.742b5608.css",
+    "main.js": "/benimble/static/js/main.48d2e83f.js",
     "static/js/453.2a82e7ac.chunk.js": "/benimble/static/js/453.2a82e7ac.chunk.js",
     "static/media/fa-solid-900.ttf": "/benimble/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/benimble/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
@@ -16,12 +16,12 @@
     "static/media/slick.ttf": "/benimble/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/benimble/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/benimble/index.html",
-    "main.29e5de54.css.map": "/benimble/static/css/main.29e5de54.css.map",
-    "main.f7d058da.js.map": "/benimble/static/js/main.f7d058da.js.map",
+    "main.742b5608.css.map": "/benimble/static/css/main.742b5608.css.map",
+    "main.48d2e83f.js.map": "/benimble/static/js/main.48d2e83f.js.map",
     "453.2a82e7ac.chunk.js.map": "/benimble/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29e5de54.css",
-    "static/js/main.f7d058da.js"
+    "static/css/main.742b5608.css",
+    "static/js/main.48d2e83f.js"
   ]
 }
